@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seiyeon&layout=compact&theme=tokyonight)
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=seiyeon&show_icons=true&theme=tokyonight)
 
 
