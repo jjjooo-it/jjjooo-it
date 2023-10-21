@@ -11,6 +11,7 @@
 </a>
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjjooo48">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seiyeon&layout=compact&theme=tokyonight)
 
 
