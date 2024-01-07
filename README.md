@@ -10,7 +10,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjooo-it&show_icons=true&theme=omni)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjooo-it&layout=compact&theme=tokyonight)
 
 
