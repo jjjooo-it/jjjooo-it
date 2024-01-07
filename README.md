@@ -10,7 +10,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjooo-it&layout=compact&theme=tokyonight)
 
 
 
